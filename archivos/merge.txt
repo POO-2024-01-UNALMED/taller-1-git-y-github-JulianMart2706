@@ -1,0 +1,1 @@
+Ahora si puedo subir la carpeta porque tiene el archivo respuesta.txt, por ende si me deja subir el commit 
