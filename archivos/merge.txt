@@ -1,0 +1,3 @@
+Nombre: Julian David Martinez Carmona
+Edad: 17
+Mis aspiraciones son aprender mas sobre la programacion orientada a objetos y mejorar como programador 
